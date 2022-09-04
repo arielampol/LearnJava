@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cba0ae84-6f6f-4e7a-865a-d8e08b6648c3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/LearnJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_3_8_2_api.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_4_5_api.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-01/Activities/ChallengeActivity1-HelloYourName2Ways/ChallengeActivity1-HelloYourName2Ways.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-01/Activities/ChallengeActivity2-DrawTickTacToeBoard/ChallengeActivity2-DrawTickTacToeBoard.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-01/Activities/ChallengeActivity3-BigInitials/ChallengeActivity3-BigInitials.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-01/Activities/DebugThis-JavaWTFJavaFTW/DebugThis-JavaWTFJavaFTW.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-01/Examples/HelloWorld/HelloWorld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-01/Examples/InteractiveHello/InteractiveHello.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-01/Examples/PrintingPower/PrintingPower.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-01/Examples/SayHello/SayHello.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-01/SOLUTIONS/Solution-ChallengeActivity1-HelloYourName2Ways/Solution-ChallengeActivity1-HelloYourName2Ways.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-01/SOLUTIONS/Solution-ChallengeActivity2-DrawTickTacToeBoard/Solution-ChallengeActivity2-DrawTickTacToeBoard.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-01/SOLUTIONS/Solution-ChallengeActivity3-BigInitials/Solution-ChallengeActivity3-BigInitials.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-01/SOLUTIONS/Solution-DebugThis-JavaWTFJavaFTW/Solution-DebugThis-JavaWTFJavaFTW.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-02/Activities/ChallengeActivity1-AreaAndPerimeterOfARectangle/ChallengeActivity1-AreaAndPerimeterOfARectangle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-02/Activities/ChallengeActivity2-FinalGradeInMET100/ChallengeActivity2-FinalGradeInMET100.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-02/Activities/ChallengeActivity3-BasketballPlayer/ChallengeActivity3-BasketballPlayer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-02/Activities/DebugThisUnitConversionFtToIn/DebugThisUnitConversionFtToIn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-02/Examples/BasicOperators/BasicOperators.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-02/Examples/CommonDataTypes/CommonDataTypes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-02/Examples/InteractiveCommonDataTypes/InteractiveCommonDataTypes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-02/SOLUTIONS/Solution-ChallengeActivity1-AreaAndPerimeterOfARectangle/Solution-ChallengeActivity1-AreaAndPerimeterOfARectangle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-02/SOLUTIONS/Solution-ChallengeActivity2-FinalGradeInMET100/Solution-ChallengeActivity2-FinalGradeInMET100.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-02/SOLUTIONS/Solution-ChallengeActivity3-BasketballPlayer/Solution-ChallengeActivity3-BasketballPlayer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-02/SOLUTIONS/Solution-DebugThisUnitConversionFtToIn/Solution-DebugThisUnitConversionFtToIn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-03/Activities/ChallengeActivity1-AreaOfATriangle/ChallengeActivity1-AreaOfATriangle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-03/Activities/ChallengeActivity2-DegreesOfATriangle/ChallengeActivity2-DegreesOfATriangle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-03/Activities/ChallengeActivity3-BasketballPlayerStats/ChallengeActivity3-BasketballPlayerStats.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-03/Activities/DebugThis-OddOrEven/DebugThis-OddOrEven.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-03/Examples/OnePlusTwoEqualsTwelve/OnePlusTwoEqualsTwelve.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-03/Examples/RelationalEqualityConditionalOperators/RelationalEqualityConditionalOperators.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-03/Examples/UnderstandingTypeCasting/UnderstandingTypeCasting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-03/SOLUTIONS/Solution-ChallengeActivity1-AreaOfATriangle/Solution-ChallengeActivity1-AreaOfATriangle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-03/SOLUTIONS/Solution-ChallengeActivity2-DegreesOfATriangle/Solution-ChallengeActivity2-DegreesOfATriangle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-03/SOLUTIONS/Solution-ChallengeActivity3-BasketballPlayerStats/Solution-ChallengeActivity3-BasketballPlayerStats.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-03/SOLUTIONS/Solution-DebugThis-OddOrEven/Solution-DebugThis-OddOrEven.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-04/Activities/ChallengeActivity1-PlayingCards/ChallengeActivity1-PlayingCards.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-04/Activities/ChallengeActivity2-PalindromeDetector/ChallengeActivity2-PalindromeDetector.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-04/Activities/ChallengeActivity3-RolePlayingGame/ChallengeActivity3-RolePlayingGame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-04/Activities/DebugThis-GuessMyNumber/DebugThis-GuessMyNumber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-04/Examples/MathExample/MathExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-04/Examples/RandomExample/RandomExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-04/Examples/StringBuilderExample/StringBuilderExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-04/SOLUTIONS/Solution-ChallengeActivity1-PlayingCards/Solution-ChallengeActivity1-PlayingCards.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-04/SOLUTIONS/Solution-ChallengeActivity2-PalindromeDetector/Solution-ChallengeActivity2-PalindromeDetector.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-04/SOLUTIONS/Solution-ChallengeActivity3-RolePlayingGame/Solution-ChallengeActivity3-RolePlayingGame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-04/SOLUTIONS/Solution-DebugThis-GuessMyNumber/Solution-DebugThis-GuessMyNumber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-05/Activities/ChallengeActivity1-BigLetters/ChallengeActivity1-BigLetters.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-05/Activities/ChallengeActivity2-RollTheDice/ChallengeActivity2-RollTheDice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-05/Activities/ChallengeActivity3-RightTriangle/ChallengeActivity3-RightTriangle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-05/Activities/DebugThis-Circles/DebugThis-Circles.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-05/Examples/Factorial/Factorial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-05/Examples/MethodBasics/MethodBasics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-05/Examples/VariableScope/VariableScope.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-05/SOLUTIONS/Solution-ChallengeActivity1-BigLetters/Solution-ChallengeActivity1-BigLetters.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-05/SOLUTIONS/Solution-ChallengeActivity2-RollTheDice/Solution-ChallengeActivity2-RollTheDice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-05/SOLUTIONS/Solution-ChallengeActivity3-RightTriangle/Solution-ChallengeActivity3-RightTriangle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-05/SOLUTIONS/Solution-DebugThis-Circles/Solution-DebugThis-Circles.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-06/Activities/ChallengeActivity1-CircleClass/ChallengeActivity1-CircleClass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-06/Activities/ChallengeActivity2-MET100Grades/ChallengeActivity2-MET100Grades.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-06/Activities/ChallengeActivity3-YourNameObjectStyle/ChallengeActivity3-YourNameObjectStyle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-06/Activities/DebugThis-EZTipCalc/DebugThis-EZTipCalc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-06/Examples/Examples.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-06/SOLUTIONS/Solution-ChallengeActivity1-CircleClass/Solution-ChallengeActivity1-CircleClass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-06/SOLUTIONS/Solution-ChallengeActivity2-MET100Grades/Solution-ChallengeActivity2-MET100Grades.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-06/SOLUTIONS/Solution-ChallengeActivity3-YourNameObjectStyle/Solution-ChallengeActivity3-YourNameObjectStyle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-06/SOLUTIONS/Solution-DebugThis-EZTipCalc/Solution-DebugThis-EZTipCalc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-07/Activities/ChallengeActivity1-UnitTestBasics/ChallengeActivity1-UnitTestBasics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-07/Activities/ChallengeActivity2-RectangleClassTests/ChallengeActivity2-RectangleClassTests.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-07/Activities/ChallengeActivity3-PlayingCardsExample/ChallengeActivity3-PlayingCardsExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-07/Activities/DebugThis-RectangleClass/DebugThis-RectangleClass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-07/Examples/Examples1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-07/SOLUTIONS/Solution-ChallengeActivity1-UnitTestBasics/Solution-ChallengeActivity1-UnitTestBasics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-07/SOLUTIONS/Solution-ChallengeActivity2-RectangleClassTests/Solution-ChallengeActivity2-RectangleClassTests.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-07/SOLUTIONS/Solution-ChallengeActivity3-PlayingCardsExample/Solution-ChallengeActivity3-PlayingCardsExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-07/SOLUTIONS/Solution-DebugThis-RectangleClass/Solution-DebugThis-RectangleClass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-08/Activities/ChallengeActivity1-LegalDrinkingAge/ChallengeActivity1-LegalDrinkingAge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-08/Activities/ChallengeActivity2-PlayingCardsComparison/ChallengeActivity2-PlayingCardsComparison.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-08/Activities/ChallengeActivity3-DungeonHackMonsterTurn/ChallengeActivity3-DungeonHackMonsterTurn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-08/Activities/DebugThis-DungeonHackCriticalHit/DebugThis-DungeonHackCriticalHit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-08/Examples/DungeonHack/DungeonHack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-08/Examples/IfElseStatement/IfElseStatement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-08/SOLUTIONS/Solution-ChallengeActivity1-LegalDrinkingAge/Solution-ChallengeActivity1-LegalDrinkingAge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-08/SOLUTIONS/Solution-ChallengeActivity2-PlayingCardsComparison/Solution-ChallengeActivity2-PlayingCardsComparison.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-08/SOLUTIONS/Solution-ChallengeActivity3-DungeonHackMonsterTurn/Solution-ChallengeActivity3-DungeonHackMonsterTurn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-08/SOLUTIONS/Solution-DebugThis-DungeonHackCriticalHit/Solution-DebugThis-DungeonHackCriticalHit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-09/Activities/ChallengeActivity1-LetterGrade/ChallengeActivity1-LetterGrade.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-09/Activities/ChallengeActivity2-LetterGradeEnums/ChallengeActivity2-LetterGradeEnums.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-09/Activities/ChallengeActivity3-ATM/ChallengeActivity3-ATM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-09/Activities/DebugThis-SalesTaxCalculations/DebugThis-SalesTaxCalculations.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-09/Examples/Enumerations/Enumerations.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-09/Examples/SwitchStatementAndIfElseLadder/SwitchStatementAndIfElseLadder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-09/SOLUTIONS/Solution-ChallengeActivity1-LetterGrade/Solution-ChallengeActivity1-LetterGrade.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-09/SOLUTIONS/Solution-ChallengeActivity2-LetterGradeEnums/Solution-ChallengeActivity2-LetterGradeEnums.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-09/SOLUTIONS/Solution-ChallengeActivity3-ATM/Solution-ChallengeActivity3-ATM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-09/SOLUTIONS/Solution-DebugThis-SalesTaxCalculations/Solution-DebugThis-SalesTaxCalculations.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-10/Activities/ChallengeActivity1-CountingWithFor/ChallengeActivity1-CountingWithFor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-10/Activities/ChallengeActivity2-PrintBarChart/ChallengeActivity2-PrintBarChart.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-10/Activities/ChallengeActivity3-RPGAbilityScores/ChallengeActivity3-RPGAbilityScores.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-10/Activities/DebugThis-MultiplicationTable/DebugThis-MultiplicationTable.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-10/Examples/99BottlesOfBeerOnTheWall/99BottlesOfBeerOnTheWall.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-10/Examples/ForLoopBasics/ForLoopBasics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-10/Examples/MultiplesofN/MultiplesofN.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-10/Examples/NestedForLoops/NestedForLoops.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-10/SOLUTIONS/Solution-ChallengeActivity1-CountingWithFor/Solution-ChallengeActivity1-CountingWithFor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-10/SOLUTIONS/Solution-ChallengeActivity2-PrintBarChart/Solution-ChallengeActivity2-PrintBarChart.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-10/SOLUTIONS/Solution-ChallengeActivity3-RPGAbilityScores/Solution-ChallengeActivity3-RPGAbilityScores.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-10/SOLUTIONS/Solution-DebugThis-MultiplicationTable/Solution-DebugThis-MultiplicationTable.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-11/Activities/ChallengeActivity1-ATMPin/ChallengeActivity1-ATMPin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-11/Activities/ChallengeActivity2-QuizAverageDropLowest/ChallengeActivity2-QuizAverageDropLowest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-11/Activities/ChallengeActivity3-DungeonHackCombat/ChallengeActivity3-DungeonHackCombat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-11/Activities/DebugThis-QuizAverage/DebugThis-QuizAverage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-11/Examples/GuessANumber-MidTestLoop/GuessANumber-MidTestLoop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-11/Examples/GuessANumber-PostTestLoop/GuessANumber-PostTestLoop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-11/Examples/GuessANumber-PreTestLoop/GuessANumber-PreTestLoop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-11/Examples/WhileLoopBasics/WhileLoopBasics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-11/SOLUTIONS/Solution-ChallengeActivity1-ATMPin/Solution-ChallengeActivity1-ATMPin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-11/SOLUTIONS/Solution-ChallengeActivity2-QuizAverageDropLowest/Solution-ChallengeActivity2-QuizAverageDropLowest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-11/SOLUTIONS/Solution-ChallengeActivity3-DungeonHackCombat/Solution-ChallengeActivity3-DungeonHackCombat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-11/SOLUTIONS/Solution-DebugThis-QuizAverage/Solution-DebugThis-QuizAverage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-12/Activities/ChallengeActivity1-MinAndMax/ChallengeActivity1-MinAndMax.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-12/Activities/ChallengeActivity2-ASCIIBarChartv2/ChallengeActivity2-ASCIIBarChartv2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-12/Activities/ChallengeActivity3-English2Yoda/ChallengeActivity3-English2Yoda.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-12/Activities/DebugThis-TestScores/DebugThis-TestScores.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-12/Examples/ArrayBasics/ArrayBasics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-12/Examples/ArraysOfObjects/ArraysOfObjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-12/SOLUTIONS/Solution-ChallengeActivity1-MinAndMax/Solution-ChallengeActivity1-MinAndMax.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-12/SOLUTIONS/Solution-ChallengeActivity2-ASCIIBarChartv2/Solution-ChallengeActivity2-ASCIIBarChartv2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-12/SOLUTIONS/Solution-ChallengeActivity3-English2Yoda/Solution-ChallengeActivity3-English2Yoda.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-12/SOLUTIONS/Solution-DebugThis-TestScores/Solution-DebugThis-TestScores.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-13/Activities/ChallengeActivity1-TicTacToeBoardWinner/ChallengeActivity1-TicTacToeBoardWinner.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-13/Activities/ChallengeActivity2-TicTacToeFullGame/ChallengeActivity2-TicTacToeFullGame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-13/Activities/DebugThis-DrawTicTacToeBoard/DebugThis-DrawTicTacToeBoard.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-13/Examples/ImplementingTickTacToe/ImplementingTickTacToe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-13/Examples/MultiDimensionalArraysExample/MultiDimensionalArraysExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-13/SOLUTIONS/Solution-ChallengeActivity1-TicTacToeBoardWinner/Solution-ChallengeActivity1-TicTacToeBoardWinner.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-13/SOLUTIONS/Solution-ChallengeActivity2-TicTacToeFullGame/Solution-ChallengeActivity2-TicTacToeFullGame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-13/SOLUTIONS/Solution-DebugThis-DrawTicTacToeBoard/Solution-DebugThis-DrawTicTacToeBoard.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-14/Activities/ChallengeActivity1-ArrayListOfStudents/ChallengeActivity1-ArrayListOfStudents.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-14/Activities/ChallengeActivity2-DeckOfPlayingCards/ChallengeActivity2-DeckOfPlayingCards.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-14/Activities/ChallengeActivity3-PlayingCardsHand/ChallengeActivity3-PlayingCardsHand.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-14/Activities/DebugThis-PlayingCardsCountTheAces/DebugThis-PlayingCardsCountTheAces.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-14/Examples/ArrayListBasics/ArrayListBasics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-14/Examples/ArrayListExample/ArrayListExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-14/Examples/ArrayListExampleAddRemoveSwap/ArrayListExampleAddRemoveSwap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-14/SOLUTIONS/Solution-ChallengeActivity1-ArrayListOfStudents/Solution-ChallengeActivity1-ArrayListOfStudents.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-14/SOLUTIONS/Solution-ChallengeActivity2-DeckOfPlayingCards/Solution-ChallengeActivity2-DeckOfPlayingCards.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-14/SOLUTIONS/Solution-ChallengeActivity3-PlayingCardsHand/Solution-ChallengeActivity3-PlayingCardsHand.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-14/SOLUTIONS/Solution-DebugThis-PlayingCardsCountTheAces/Solution-DebugThis-PlayingCardsCountTheAces.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-15/Activities/ChallengeActivity1-UndestandingComparators/ChallengeActivity1-UndestandingComparators.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-15/Activities/ChallengeActivity2-FindCard/ChallengeActivity2-FindCard.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-15/Activities/ChallengeActivity3-SortingHands/ChallengeActivity3-SortingHands.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-15/Activities/DebugThis-ImplementingCardComparator/DebugThis-ImplementingCardComparator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-15/Examples/BasicSortingSearchingDemo/BasicSortingSearchingDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-15/Examples/SortingSearchingStudentsUsingComparator/SortingSearchingStudentsUsingComparator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-15/SOLUTIONS/Solution-ChallengeActivity1-UndestandingComparators/Solution-ChallengeActivity1-UndestandingComparators.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-15/SOLUTIONS/Solution-ChallengeActivity2-FindCard/Solution-ChallengeActivity2-FindCard.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-15/SOLUTIONS/Solution-ChallengeActivity3-SortingHands/Solution-ChallengeActivity3-SortingHands.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-15/SOLUTIONS/Solution-DebugThis-ImplementingCardComparator/Solution-DebugThis-ImplementingCardComparator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-16/Activities/ChallengeActivity1-HourlyWage/ChallengeActivity1-HourlyWage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-16/Activities/ChallengeActivity2-CardExceptions/ChallengeActivity2-CardExceptions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-16/Activities/ChallengeActivity3-TicTacToeFullGameSanitizedInput/ChallengeActivity3-TicTacToeFullGameSanitizedInput.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-16/Activities/DebugThis-InputUntilValid/DebugThis-InputUntilValid.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-16/Examples/ExampleTryCatchFinally/ExampleTryCatchFinally.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-16/Examples/ExceptionBasics/ExceptionBasics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-16/SOLUTIONS/Solution-ChallengeActivity1-HourlyWage/Solution-ChallengeActivity1-HourlyWage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-16/SOLUTIONS/Solution-ChallengeActivity2-CardExceptions/Solution-ChallengeActivity2-CardExceptions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-16/SOLUTIONS/Solution-ChallengeActivity3-TicTacToeFullGameSanitizedInput/Solution-ChallengeActivity3-TicTacToeFullGameSanitizedInput.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-16/SOLUTIONS/Solution-DebugThis-InputUntilValid/Solution-DebugThis-InputUntilValid.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-16/SOLUTIONS/TicTacToeFullGameSanitizedInput/TicTacToeFullGameSanitizedInput.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-17/Activities/ChallengeActivity1-ThePassword/ChallengeActivity1-ThePassword.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-17/Activities/ChallengeActivity2-GradeProcessing/ChallengeActivity2-GradeProcessing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-17/Activities/ChallengeActivity3-StudentFileIO/ChallengeActivity3-StudentFileIO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-17/Activities/DebugThis-WordCount/DebugThis-WordCount.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-17/Examples/BasicFileIO/BasicFileIO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-17/Examples/ObjectSerialization/ObjectSerialization.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-17/SOLUTIONS/Solution-ChallengeActivity1-ThePassword/Solution-ChallengeActivity1-ThePassword.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-17/SOLUTIONS/Solution-ChallengeActivity2-GradeProcessing/Solution-ChallengeActivity2-GradeProcessing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-17/SOLUTIONS/Solution-ChallengeActivity3-StudentFileIO/Solution-ChallengeActivity3-StudentFileIO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-17/SOLUTIONS/Solution-DebugThis-WordCount/Solution-DebugThis-WordCount.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-18/Activities/ChallengeActivity1-HelloSwing/ChallengeActivity1-HelloSwing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-18/Activities/ChallengeActivity2-TemperatureConversion/ChallengeActivity2-TemperatureConversion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-18/Activities/ChallengeActivity3-MathFlashCard/ChallengeActivity3-MathFlashCard.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-18/Activities/ChallengeActivity4-StudentGui/ChallengeActivity4-StudentGui.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-18/Activities/DebugThis-EZTipCalcGUI/DebugThis-EZTipCalcGUI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-18/Examples/DemoSwingControls/DemoSwingControls.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-18/Examples/EverythingsAString/EverythingsAString.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-18/SOLUTIONS/Solution-ChallengeActivity1-HelloSwing/Solution-ChallengeActivity1-HelloSwing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-18/SOLUTIONS/Solution-ChallengeActivity2-TemperatureConversion/Solution-ChallengeActivity2-TemperatureConversion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-18/SOLUTIONS/Solution-ChallengeActivity3-MathFlashCard/Solution-ChallengeActivity3-MathFlashCard.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-18/SOLUTIONS/Solution-ChallengeActivity4-StudentGui/Solution-ChallengeActivity4-StudentGui.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-18/SOLUTIONS/Solution-DebugThis-EZTipCalcGUI/Solution-DebugThis-EZTipCalcGUI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-19/Activities/ChallengeActivity1-ProductCatalogDemo/ChallengeActivity1-ProductCatalogDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-19/Activities/ChallengeActivity2-StudentGradeStrategy/ChallengeActivity2-StudentGradeStrategy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-19/Activities/DebugThis-SubclassMania/DebugThis-SubclassMania.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-19/Examples/CashRegisterDrawer/CashRegisterDrawer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-19/Examples/ProductCatalogDemo/ProductCatalogDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-19/SOLUTIONS/Solution-ChallengeActivity1-ProductCatalogDemo/Solution-ChallengeActivity1-ProductCatalogDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-19/SOLUTIONS/Solution-ChallengeActivity2-StudentGradeStrategy/Solution-ChallengeActivity2-StudentGradeStrategy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-19/SOLUTIONS/Solution-DebugThis-SubclassMania/Solution-DebugThis-SubclassMania.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-20/Activities/ChallengeActivity1-ChuckNorrisFactGUI/ChallengeActivity1-ChuckNorrisFactGUI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-20/Activities/ChallengeActivity2-RandomOrgApiDemo/ChallengeActivity2-RandomOrgApiDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-20/Activities/DebugThis-ChuckNorrisFact/DebugThis-ChuckNorrisFact.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-20/Examples/EarthquakeFeedSample/EarthquakeFeedSample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-20/Examples/temp/AccuWeatherApiDemo/AccuWeatherApiDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-20/Examples/temp/RedditApiDemo/RedditApiDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-20/Examples/temp/TwitterSearchApiDemo/TwitterSearchApiDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-20/SOLUTIONS/Solution-ChallengeActivity1-ChuckNorrisFactGUI/Solution-ChallengeActivity1-ChuckNorrisFactGUI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-20/SOLUTIONS/Solution-ChallengeActivity2-RandomOrgApiDemo/Solution-ChallengeActivity2-RandomOrgApiDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson-20/SOLUTIONS/Solution-DebugThis-ChuckNorrisFact/Solution-DebugThis-ChuckNorrisFact.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Other/DeckOfPlayingCards/DeckOfPlayingCards.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Other/PlayingCards/PlayingCards.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Other/RockPaperScissors/RockPaperScissors.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EJRHFvDCxlx6xM8aDZ0lLNLHAQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "preferences.packagesearch.PackageSearchGeneralConfigurable"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cba0ae84-6f6f-4e7a-865a-d8e08b6648c3" name="Changes" comment="" />
+      <created>1662311611016</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662311611016</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
